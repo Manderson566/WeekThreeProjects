@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Happy8Ball.cs" />
+    <Compile Include="IQuestionable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Robot8Ball.cs" />
+    <Compile Include="Sad8Ball.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
