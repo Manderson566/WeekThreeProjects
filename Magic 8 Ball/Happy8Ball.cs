@@ -23,7 +23,7 @@ namespace Magic_8_Ball
             //string rndString = rnd.Next(happyAnswers.Count()).ToString();
             //string randomString = happyAnswers[rndString];
 
-            Console.WriteLine(rndHappyResponse[1]);
+            Console.WriteLine(rndHappyResponse[1]); 
         }
     }
 }
